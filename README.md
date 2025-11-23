@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome, this is Weihua KUANG! 
+## Welcome, this is Weihua Kuang! 
 
 
 <img align="right" alt="img" src="https://github.com/weihua-kuang/weihua-kuang/blob/main/assets/pic02.jpg" width="20%" height="auto" />
