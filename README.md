@@ -44,10 +44,10 @@ Interested in **Agent** (mainly Multi-Agents System) / Linear Model / Brain-Insp
 - Linear Model & Inference Efficiency
 - Multi-Agents Collaboration & Agent Protocals & Tool use
 
-### More info refer to [Weihua's Website](https://weihua-kuang.github.io).
+### More info refer to [Weihua's Website](https://weihuakuang.github.io).
 
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=weihua-kuang&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=weihuakuang&show_icons=true&hide_border=true" />
 
 <!--
 ### :computer: Tech. Stack : 
